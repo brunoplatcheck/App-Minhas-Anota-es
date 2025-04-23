@@ -5,12 +5,6 @@ Aplicativo desenvolvido em **Flutter** com persistência de dados utilizando **S
 
 ---
 
-## 📱 Capturas de tela *(adicione depois as imagens do app em execução)*
-
-> *(Você pode adicionar imagens aqui com `![screenshot](caminho/para/imagem.png)` depois de subir no repositório)*
-
----
-
 ## 🚀 Funcionalidades
 
 - ✅ Criar anotações com título e descrição  
